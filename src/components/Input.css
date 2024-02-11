@@ -1,0 +1,13 @@
+.input-wrapper {
+ display: flex;
+ flex-direction: column;   
+ gap: 10px;
+ justify-content: center;
+ width: 100%;
+}
+
+label{
+    h3 {
+        display: inline;
+    }
+}
