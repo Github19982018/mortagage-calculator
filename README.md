@@ -1,5 +1,5 @@
-#Mortgage calculator
-_
+# Mortgage calculator
+-
 Completed project
-_
+-
 Calculate mortgage based on user input
