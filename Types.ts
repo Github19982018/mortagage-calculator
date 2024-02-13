@@ -1,4 +1,4 @@
- type Data = {
+export type Data = {
     purchasePrice: number;
     interest: number;
     downPayment:number;
